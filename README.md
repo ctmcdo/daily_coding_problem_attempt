@@ -1,3 +1,3 @@
-# Daily Coding Problems
+# One month of 'Daily Coding Problems'
 
-Attempting daily coding problems (https://www.dailycodingproblem.com/), for my CV of course.
+https://www.dailycodingproblem.com/
